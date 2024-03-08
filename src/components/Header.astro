@@ -1,0 +1,24 @@
+---
+import Dialog from "../components/modals/BaseModal.astro";
+---
+
+<header
+  class="sticky h-16 md:h-24 bg-white flex items-center max-w-7xl mx-auto px-10 justify-center md:justify-between"
+>
+  <a href="/" class="text-bold text-xl md:text-3xl">Logo Move</a>
+  <div class="hidden md:flex items-center gap-x-10 uppercase font-semibold">
+    <a
+      class="hover:text-yellow-400 hover:underline-offset-3 hover:underline"
+      href="/services">Services</a
+    >
+    <a
+      class="hover:text-yellow-400 hover:underline-offset-3 hover:underline"
+      href="/about-us">About</a
+    >
+    <a
+      class="hover:text-yellow-400 hover:underline-offset-3 hover:underline"
+      href="/contact-us">Contact</a
+    >
+    <Dialog />
+  </div>
+</header>

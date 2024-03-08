@@ -1,0 +1,71 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { Picture } from "astro:assets";
+import emptyHouse from "../assets/img/png/delivery-man.jpeg";
+---
+
+<Layout title="Welcome to Astro.">
+  <main class="flex flex-col">
+    <div
+      class="w-screen grid grid-cols-1 md:grid-cols-4 md:gap-x-10 h-full max-w-7xl mx-auto md:px-10 mb-10"
+    >
+      <Picture
+        widths={[350, 500, 1024, 1280]}
+        sizes="(max-width: 500px) 350px, (max-width: 1024px) 500px, 1280px"
+        formats={["avif"]}
+        loading="eager"
+        src={emptyHouse}
+        class="md:max-h-[80vh]"
+        alt="A description of my image."
+      />
+      <div class="col-span-3 flex flex-col px-4 gap-y-6 py-5">
+        <h2 class="font-bold text-2xl md:text-5xl">
+          QUALITY SERVICE, Local Move
+        </h2>
+        <p>
+          Est id dolore laborum commodo ad ea veniam deserunt elit. Cupidatat
+          pariatur magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam. Est id
+          dolore laborum commodo ad ea veniam deserunt elit. Cupidatat pariatur
+          magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam. Est id
+          dolore laborum commodo ad ea veniam deserunt elit. Cupidatat pariatur
+          magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam. Est id
+          dolore laborum commodo ad ea veniam deserunt elit. Cupidatat pariatur
+          magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam.
+        </p>
+        <p>
+          Est id dolore laborum commodo ad ea veniam deserunt elit. Cupidatat
+          pariatur magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam. Est id
+          dolore laborum commodo ad ea veniam deserunt elit. Cupidatat pariatur
+          magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam. Est id
+          dolore laborum commodo ad ea veniam deserunt elit. Cupidatat pariatur
+          magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam. Est id
+          dolore laborum commodo ad ea veniam deserunt elit. Cupidatat pariatur
+          magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam.
+        </p>
+        <p>
+          Est id dolore laborum commodo ad ea veniam deserunt elit. Cupidatat
+          pariatur magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam. Est id
+          dolore laborum commodo ad ea veniam deserunt elit. Cupidatat pariatur
+          magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam. Est id
+          dolore laborum commodo ad ea veniam deserunt elit. Cupidatat pariatur
+          magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam. Est id
+          dolore laborum commodo ad ea veniam deserunt elit. Cupidatat pariatur
+          magna cupidatat amet ullamco minim ipsum minim occaecat velit
+          consequat ad nulla. Dolor aute consectetur minim nulla veniam.
+        </p>
+      </div>
+      <div></div>
+    </div>
+  </main></Layout
+>
