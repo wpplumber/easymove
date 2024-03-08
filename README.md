@@ -39,8 +39,9 @@ If your problem or idea has not been addressed yet then [open a new issue](https
 
 Copyright (c) 2024 released under the [MIT](https://github.com/wpplumber/easymove/blob/main/LICENSE) license. Designed & Developed by [Tarik](https://github.com/wpplumber)
 
-## Assets copyright:
+<details><summary>Assets' copyright:</summary>
 The images are only for demonstration purposes, they have their license:
+  
 | Image | Link |
 | ------ | ------ |
 |   [Petrebels](https://unsplash.com/@petrebels?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)     |    [Unsplash](https://unsplash.com/photos/orange-and-black-auto-rickshaw-JwMGy1h-JsY?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)    |
@@ -52,5 +53,5 @@ The images are only for demonstration purposes, they have their license:
 |     [Arno Senoner](https://unsplash.com/@arnosenoner?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)    |     [Unsplash](https://unsplash.com/photos/white-and-red-cars-parked-near-white-concrete-building-during-daytime-4jLpCkGqClE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)    |
 |    [Wynand van Poortvliet](https://unsplash.com/@wwwynand?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)     |     [Unsplash](https://unsplash.com/photos/man-in-green-jacket-and-black-pants-standing-in-front-of-brown-building-during-daytime-kWUZKKBR2Ag?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)    |
 |    [Girl with red hat](https://unsplash.com/@girlwithredhat?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)     |    [Unsplash](https://unsplash.com/photos/green-framed-eyeglasses-beside-orange-rose-NhxTKvnezps?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)     |
-
+</details>
 
