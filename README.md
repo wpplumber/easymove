@@ -34,11 +34,6 @@ After cloning the repository you need to run the app all using the following com
 You find a problem using the template feel free to search [existing issues](https://github.com/wpplumber/easymove/issues) because possible someone has already reported the same problem.
 If your problem or idea has not been addressed yet then [open a new issue](https://github.com/wpplumber/easymove/issues).
 
-<!-- licence -->
-## License
-
-Copyright (c) 2024 released under the [MIT](https://github.com/wpplumber/easymove/blob/main/LICENSE) license. Designed & Developed by [Tarik](https://github.com/wpplumber)
-
 <details><summary>Assets' copyright:</summary>
 The images are only for demonstration purposes, they have their license:
   
